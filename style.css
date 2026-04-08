@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.cdnfonts.com/css/segoe-ui-4');
 
 body {
 	background: url('https://i.pinimg.com/originals/43/66/64/4366644a9515f37e7bf463d394ec647d.jpg');
@@ -6,7 +6,7 @@ body {
 	background-repeat: repeat;
 	margin: 0!important;
 	color: white;
-	font-family: 'Quicksand', sans-serif;
+	font-family: 'Seoge UI', sans-serif;
 }
 
 * {
